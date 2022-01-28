@@ -39,4 +39,4 @@ The implementation strives to be simple and free of unnecessary dependencies.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/rieckypoerwadiredja/business-porto-1/blob/main/LICENSE.txt)
